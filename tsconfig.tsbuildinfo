@@ -1,0 +1,1 @@
+{"root":["./server/index.ts","./server/prisma.config.ts","./server/prismaclient.ts"],"version":"5.9.3"}
